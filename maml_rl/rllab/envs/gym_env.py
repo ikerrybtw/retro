@@ -2,8 +2,8 @@ import gym
 import gym.wrappers
 import gym.envs
 import gym.spaces
-from gym.monitoring import monitor_manager
-from gym.wrappers.monitoring import _Monitor
+# from gym.monitoring import monitor_manager
+# from gym.wrappers.monitoring import _Monitor
 import os
 import os.path as osp
 from rllab.envs.base import Env, Step
@@ -58,7 +58,7 @@ class GymEnv(Env, Serializable):
         self.env = env
         self.env_id = env.spec.id
 
-        monitor_manager.logger.setLevel(logging.WARNING)
+        # monitor_manager.logger.setLevel(logging.WARNING)
 
         assert not (not record_log and record_video)
 

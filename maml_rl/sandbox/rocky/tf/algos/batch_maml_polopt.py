@@ -155,10 +155,11 @@ class BatchMAMLPolopt(RLAlgorithm):
                     logger.log("Sampling set of tasks/goals for this meta-batch...")
 
                     env = self.env
-                    while 'sample_goals' not in dir(env):
-                        env = env.wrapped_env
-                    learner_env_goals = env.sample_goals(self.meta_batch_size)
-
+                    # print(env)
+                    # while 'sample_goals' not in dir(env):
+                        # env = env.wrapped_env
+                    # learner_env_goals = env.sample_goals(self.meta_batch_size)
+                    learner_env_goals = None
                     self.policy.switch_to_init_dist()  # Switch to pre-update policy
 
                     all_samples_data, all_paths = [], []
