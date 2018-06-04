@@ -4,7 +4,7 @@ import joblib
 import tensorflow as tf
 
 from rllab.misc.console import query_yes_no
-from rllab.sampler.utils import rollout
+from rllab.sampler.util import rollout
 
 if __name__ == "__main__":
 
@@ -31,13 +31,14 @@ if __name__ == "__main__":
             env = data['env']
             while True:
                 path = rollout(env, policy, max_path_length=args.max_path_length,
-                               animated=True, speedup=args.speedup, video_filename=args.video_filename)
+                               animated=True, speedup=args.speedup) # , video_filename=args.video_filename)
                 if args.prompt:
                     if not query_yes_no('Continue simulation?'):
                         break
                 else:
                     break
             #import pdb; pdb.set_trace()
+        print(path)
         if len(path['rewards']) < args.max_path_length and tri >= max_tries:
             tf.reset_default_graph()
             continue

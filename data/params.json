@@ -1,0 +1,89 @@
+{
+  "args_data": "gANjcmxsYWIubWlzYy5pbnN0cnVtZW50ClN0dWJNZXRob2RDYWxsCnEAKYFxAX1xAihYBgAAAF9fYXJnc3EDKGNybGxhYi5taXNjLmluc3RydW1lbnQKU3R1Yk9iamVjdApxBCmBcQV9cQYoWAQAAABhcmdzcQcpWAYAAABrd2FyZ3NxCH1xCShYDwAAAG1ldGFfYmF0Y2hfc2l6ZXEKSyhYBAAAAHBsb3RxC4lYDwAAAG1heF9wYXRoX2xlbmd0aHEMTUAGWAUAAABuX2l0cnENSwVYCAAAAHVzZV9tYW1scQ6IWAMAAABlbnZxD2gEKYFxEH1xEShoByloCH1xElgLAAAAd3JhcHBlZF9lbnZxE2gEKYFxFH1xFShoByloCH1xFmgPaAQpgXEXfXEYKGgHKWgIfXEZKFgIAAAAZW52X25hbWVxGlgQAAAAQmlwZWRhbFdhbGtlci12MnEbWAoAAAByZWNvcmRfbG9ncRyJWAwAAAByZWNvcmRfdmlkZW9xHYlYCwAAAGZvcmNlX3Jlc2V0cR6IdVgLAAAAcHJveHlfY2xhc3NxH2NybGxhYi5lbnZzLmd5bV9lbnYKR3ltRW52CnEgdWJzaB9jcmxsYWIuZW52cy5ub3JtYWxpemVkX2VudgpOb3JtYWxpemVkRW52CnEhdWJzaB9jc2FuZGJveC5yb2NreS50Zi5lbnZzLmJhc2UKVGZFbnYKcSJ1YlgIAAAAYmFzZWxpbmVxI2gEKYFxJH1xJShoByloCH1xJlgIAAAAZW52X3NwZWNxJ2NybGxhYi5taXNjLmluc3RydW1lbnQKU3R1YkF0dHIKcSgpgXEpfXEqKFgKAAAAX2F0dHJfbmFtZXErWAQAAABzcGVjcSxYBAAAAF9vYmpxLWgQdWJzaB9jcmxsYWIuYmFzZWxpbmVzLmxpbmVhcl9mZWF0dXJlX2Jhc2VsaW5lCkxpbmVhckZlYXR1cmVCYXNlbGluZQpxLnViWAYAAABwb2xpY3lxL2gEKYFxMH1xMShoByloCH1xMihYDgAAAGdyYWRfc3RlcF9zaXplcTNHP7mZmZmZmZpoJ2goKYFxNH1xNShoK2gsaC1oEHViWAQAAABuYW1lcTZoL1gMAAAAaGlkZGVuX3NpemVzcTdLZEtkhnE4WBMAAABoaWRkZW5fbm9ubGluZWFyaXR5cTljdGVuc29yZmxvdy5weXRob24ub3BzLmdlbl9ubl9vcHMKcmVsdQpxOnVoH2NzYW5kYm94LnJvY2t5LnRmLnBvbGljaWVzLm1hbWxfbWluaW1hbF9nYXVzc19tbHBfcG9saWN5Ck1BTUxHYXVzc2lhbk1MUFBvbGljeQpxO3ViWBAAAABudW1fZ3JhZF91cGRhdGVzcTxLAVgKAAAAYmF0Y2hfc2l6ZXE9SxRYCQAAAHN0ZXBfc2l6ZXE+Rz+EeuFHrhR7dWgfY3NhbmRib3gucm9ja3kudGYuYWxnb3MubWFtbF90cnBvCk1BTUxUUlBPCnE/dWJYBQAAAHRyYWlucUApfXFBdHFCWAgAAABfX2t3YXJnc3FDfXFEdWIu",
+  "exp_name": "trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11",
+  "json_args": {
+    "algo": {
+      "_name": "sandbox.rocky.tf.algos.maml_trpo.MAMLTRPO",
+      "batch_size": 20,
+      "max_path_length": 1600,
+      "meta_batch_size": 40,
+      "n_itr": 5,
+      "num_grad_updates": 1,
+      "plot": false,
+      "step_size": 0.01,
+      "use_maml": true
+    },
+    "baseline": {
+      "_name": "rllab.baselines.linear_feature_baseline.LinearFeatureBaseline",
+      "env_spec": {
+        "attr": "spec",
+        "obj": {
+          "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+          "wrapped_env": {
+            "_name": "rllab.envs.normalized_env.NormalizedEnv",
+            "env": {
+              "_name": "rllab.envs.gym_env.GymEnv",
+              "env_name": "BipedalWalker-v2",
+              "force_reset": true,
+              "record_log": false,
+              "record_video": false
+            }
+          }
+        }
+      }
+    },
+    "env": {
+      "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+      "wrapped_env": {
+        "_name": "rllab.envs.normalized_env.NormalizedEnv",
+        "env": {
+          "_name": "rllab.envs.gym_env.GymEnv",
+          "env_name": "BipedalWalker-v2",
+          "force_reset": true,
+          "record_log": false,
+          "record_video": false
+        }
+      }
+    },
+    "policy": {
+      "_name": "sandbox.rocky.tf.policies.maml_minimal_gauss_mlp_policy.MAMLGaussianMLPPolicy",
+      "env_spec": {
+        "attr": "spec",
+        "obj": {
+          "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+          "wrapped_env": {
+            "_name": "rllab.envs.normalized_env.NormalizedEnv",
+            "env": {
+              "_name": "rllab.envs.gym_env.GymEnv",
+              "env_name": "BipedalWalker-v2",
+              "force_reset": true,
+              "record_log": false,
+              "record_video": false
+            }
+          }
+        }
+      },
+      "grad_step_size": 0.1,
+      "hidden_nonlinearity": "tensorflow.python.ops.gen_nn_ops.relu",
+      "hidden_sizes": [
+        100,
+        100
+      ],
+      "name": "policy"
+    }
+  },
+  "log_dir": "./data/",
+  "log_tabular_only": false,
+  "n_parallel": 1,
+  "params_log_file": "params.json",
+  "plot": false,
+  "resume_from": null,
+  "seed": 1,
+  "snapshot_gap": 1,
+  "snapshot_mode": "last",
+  "tabular_log_file": "progress.csv",
+  "text_log_file": "debug.log",
+  "use_cloudpickle": false,
+  "variant_data": null,
+  "variant_log_file": "variant.json"
+}

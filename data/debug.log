@@ -1,0 +1,340 @@
+2018-06-03 23:07:21.232776 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Sampling set of tasks/goals for this meta-batch...
+2018-06-03 23:07:21.233007 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | ** Step 0 **
+2018-06-03 23:07:21.233156 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Obtaining samples...
+2018-06-03 23:07:21.233316 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Obtaining samples for iteration 0...
+2018-06-03 23:13:46.285258 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Processing samples...
+2018-06-03 23:13:48.029170 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | fitting baseline...
+2018-06-03 23:13:48.775740 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | fitted
+2018-06-03 23:13:49.591518 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Logging diagnostics...
+2018-06-03 23:13:49.630116 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Computing policy updates...
+2018-06-03 23:14:29.093862 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | ** Step 1 **
+2018-06-03 23:14:29.094095 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Obtaining samples...
+2018-06-03 23:14:29.094252 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Obtaining samples for iteration 0...
+2018-06-03 23:24:12.155651 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Processing samples...
+2018-06-03 23:24:15.166401 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | fitting baseline...
+2018-06-03 23:24:16.030938 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | fitted
+2018-06-03 23:24:16.786616 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Logging diagnostics...
+2018-06-03 23:24:16.863201 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Optimizing policy...
+2018-06-03 23:24:16.863777 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Computing KL before
+2018-06-03 23:24:22.765024 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Computing loss before
+2018-06-03 23:24:29.638588 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Optimizing
+2018-06-03 23:24:30.236923 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Start CG optimization: #parameters: 13008, #inputs: 32002, #subsample_inputs: 32002
+2018-06-03 23:24:30.237393 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | computing loss before
+2018-06-03 23:24:33.526881 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | performing update
+2018-06-03 23:24:33.527303 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | computing gradient
+2018-06-03 23:24:59.674374 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | gradient computed
+2018-06-03 23:24:59.674791 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | computing descent direction
+2018-06-03 23:28:19.725092 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | descent direction computed
+2018-06-03 23:28:25.867004 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | backtrack iters: 0
+2018-06-03 23:28:25.867261 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | computing loss after
+2018-06-03 23:28:25.867411 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | optimization finished
+2018-06-03 23:28:25.867562 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Computing loss after
+2018-06-03 23:28:28.182281 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Computing KL after
+2018-06-03 23:28:30.531043 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Saving snapshot...
+2018-06-03 23:28:30.535676 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #0 | Saved
+2018-06-03 23:28:30.536776 PDT | ----------------------  --------------
+2018-06-03 23:28:30.536950 PDT | 0PolicyExecTime           19.6294
+2018-06-03 23:28:30.537097 PDT | 0EnvExecTime             355.355
+2018-06-03 23:28:30.537243 PDT | 0ProcessExecTime           9.13299
+2018-06-03 23:28:30.537382 PDT | 0AverageReturn          -128.359
+2018-06-03 23:28:30.537518 PDT | 0ExplainedVariance         0.528687
+2018-06-03 23:28:30.537652 PDT | 0NumTrajs               2328
+2018-06-03 23:28:30.537786 PDT | 0Entropy                   5.67576
+2018-06-03 23:28:30.537918 PDT | 0Perplexity              291.711
+2018-06-03 23:28:30.538051 PDT | 0StdReturn                35.5402
+2018-06-03 23:28:30.538183 PDT | 0MaxReturn               -95.1491
+2018-06-03 23:28:30.538316 PDT | 0MinReturn              -238.349
+2018-06-03 23:28:30.538447 PDT | 0AveragePolicyStd          1
+2018-06-03 23:28:30.538579 PDT | ComputeUpdatedDistTime    39.4635
+2018-06-03 23:28:30.538721 PDT | 1PolicyExecTime          126.802
+2018-06-03 23:28:30.538855 PDT | 1EnvExecTime             443.299
+2018-06-03 23:28:30.538988 PDT | 1ProcessExecTime          11.7743
+2018-06-03 23:28:30.539120 PDT | 1AverageReturn          -126.15
+2018-06-03 23:28:30.539251 PDT | 1ExplainedVariance         0.557794
+2018-06-03 23:28:30.539383 PDT | 1NumTrajs               2302
+2018-06-03 23:28:30.539515 PDT | 1Entropy                   5.67511
+2018-06-03 23:28:30.539646 PDT | 1Perplexity              291.522
+2018-06-03 23:28:30.539777 PDT | 1StdReturn                32.9017
+2018-06-03 23:28:30.539908 PDT | 1MaxReturn               -97.1711
+2018-06-03 23:28:30.540039 PDT | 1MinReturn              -239.739
+2018-06-03 23:28:30.540170 PDT | 1AveragePolicyStd          0.999839
+2018-06-03 23:28:30.540306 PDT | MeanKLBefore               4.31352e-07
+2018-06-03 23:28:30.540440 PDT | MeanKL                     0.00948157
+2018-06-03 23:28:30.540572 PDT | LossBefore                -0.00163232
+2018-06-03 23:28:30.540703 PDT | LossAfter                 -0.00654455
+2018-06-03 23:28:30.540833 PDT | dLoss                      0.00491222
+2018-06-03 23:28:30.540964 PDT | Time                    1269.3
+2018-06-03 23:28:30.541095 PDT | ItrTime                 1269.3
+2018-06-03 23:28:30.541227 PDT | ----------------------  --------------
+2018-06-03 23:28:30.541502 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Sampling set of tasks/goals for this meta-batch...
+2018-06-03 23:28:30.554656 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | ** Step 0 **
+2018-06-03 23:28:30.556313 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Obtaining samples...
+2018-06-03 23:28:30.557177 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Obtaining samples for iteration 1...
+2018-06-03 23:34:51.424252 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Processing samples...
+2018-06-03 23:34:53.073135 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | fitting baseline...
+2018-06-03 23:34:53.763046 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | fitted
+2018-06-03 23:34:54.371281 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Logging diagnostics...
+2018-06-03 23:34:54.435148 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Computing policy updates...
+2018-06-03 23:34:57.401095 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | ** Step 1 **
+2018-06-03 23:34:57.401477 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Obtaining samples...
+2018-06-03 23:34:57.401782 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Obtaining samples for iteration 1...
+2018-06-03 23:44:29.742325 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Processing samples...
+2018-06-03 23:44:31.429363 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | fitting baseline...
+2018-06-03 23:44:32.185278 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | fitted
+2018-06-03 23:44:33.355471 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Logging diagnostics...
+2018-06-03 23:44:33.488002 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Optimizing policy...
+2018-06-03 23:44:33.489032 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Computing KL before
+2018-06-03 23:44:37.055758 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Computing loss before
+2018-06-03 23:44:40.341694 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Optimizing
+2018-06-03 23:44:40.342663 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Start CG optimization: #parameters: 13008, #inputs: 32403, #subsample_inputs: 32403
+2018-06-03 23:44:40.342860 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | computing loss before
+2018-06-03 23:44:42.686069 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | performing update
+2018-06-03 23:44:42.686390 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | computing gradient
+2018-06-03 23:44:51.613380 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | gradient computed
+2018-06-03 23:44:51.613893 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | computing descent direction
+2018-06-03 23:47:55.736011 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | descent direction computed
+2018-06-03 23:47:59.665174 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | backtrack iters: 0
+2018-06-03 23:47:59.665751 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | computing loss after
+2018-06-03 23:47:59.666039 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | optimization finished
+2018-06-03 23:47:59.666328 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Computing loss after
+2018-06-03 23:48:03.153017 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Computing KL after
+2018-06-03 23:48:06.195847 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Saving snapshot...
+2018-06-03 23:48:06.200526 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #1 | Saved
+2018-06-03 23:48:06.201611 PDT | ----------------------  --------------
+2018-06-03 23:48:06.201785 PDT | 0PolicyExecTime           18.7843
+2018-06-03 23:48:06.201932 PDT | 0EnvExecTime             350.744
+2018-06-03 23:48:06.202071 PDT | 0ProcessExecTime          10.3594
+2018-06-03 23:48:06.202207 PDT | 0AverageReturn          -136.099
+2018-06-03 23:48:06.202342 PDT | 0ExplainedVariance         0.328016
+2018-06-03 23:48:06.202477 PDT | 0NumTrajs               1109
+2018-06-03 23:48:06.202612 PDT | 0Entropy                   5.66602
+2018-06-03 23:48:06.202748 PDT | 0Perplexity              288.882
+2018-06-03 23:48:06.202882 PDT | 0StdReturn                36.5599
+2018-06-03 23:48:06.203016 PDT | 0MaxReturn               -98.3116
+2018-06-03 23:48:06.203150 PDT | 0MinReturn              -240.042
+2018-06-03 23:48:06.203284 PDT | 0AveragePolicyStd          0.997579
+2018-06-03 23:48:06.203418 PDT | ComputeUpdatedDistTime     2.96567
+2018-06-03 23:48:06.203550 PDT | 1PolicyExecTime          125.283
+2018-06-03 23:48:06.203682 PDT | 1EnvExecTime             433.998
+2018-06-03 23:48:06.203815 PDT | 1ProcessExecTime          11.6524
+2018-06-03 23:48:06.203948 PDT | 1AverageReturn          -131.772
+2018-06-03 23:48:06.204083 PDT | 1ExplainedVariance         0.380123
+2018-06-03 23:48:06.204215 PDT | 1NumTrajs               1108
+2018-06-03 23:48:06.204359 PDT | 1Entropy                   5.66455
+2018-06-03 23:48:06.204494 PDT | 1Perplexity              288.457
+2018-06-03 23:48:06.204627 PDT | 1StdReturn                32.4993
+2018-06-03 23:48:06.204760 PDT | 1MaxReturn               -97.6772
+2018-06-03 23:48:06.204894 PDT | 1MinReturn              -237.32
+2018-06-03 23:48:06.205028 PDT | 1AveragePolicyStd          0.997208
+2018-06-03 23:48:06.205160 PDT | MeanKLBefore               5.72364e-07
+2018-06-03 23:48:06.205293 PDT | MeanKL                     0.00990457
+2018-06-03 23:48:06.205427 PDT | LossBefore                -0.0020369
+2018-06-03 23:48:06.205562 PDT | LossAfter                 -0.00612173
+2018-06-03 23:48:06.205695 PDT | dLoss                      0.00408484
+2018-06-03 23:48:06.205828 PDT | Time                    2444.97
+2018-06-03 23:48:06.205961 PDT | ItrTime                 1175.66
+2018-06-03 23:48:06.206098 PDT | ----------------------  --------------
+2018-06-03 23:48:06.206332 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Sampling set of tasks/goals for this meta-batch...
+2018-06-03 23:48:06.213522 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | ** Step 0 **
+2018-06-03 23:48:06.215431 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Obtaining samples...
+2018-06-03 23:48:06.217271 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Obtaining samples for iteration 2...
+2018-06-03 23:54:11.409620 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Processing samples...
+2018-06-03 23:54:12.954324 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | fitting baseline...
+2018-06-03 23:54:13.608908 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | fitted
+2018-06-03 23:54:14.189035 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Logging diagnostics...
+2018-06-03 23:54:14.253150 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Computing policy updates...
+2018-06-03 23:54:16.465400 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | ** Step 1 **
+2018-06-03 23:54:16.465620 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Obtaining samples...
+2018-06-03 23:54:16.465763 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Obtaining samples for iteration 2...
+2018-06-04 00:02:48.498008 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Processing samples...
+2018-06-04 00:02:50.071187 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | fitting baseline...
+2018-06-04 00:02:50.833210 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | fitted
+2018-06-04 00:02:51.448270 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Logging diagnostics...
+2018-06-04 00:02:51.517851 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Optimizing policy...
+2018-06-04 00:02:51.518449 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Computing KL before
+2018-06-04 00:02:54.068873 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Computing loss before
+2018-06-04 00:02:57.706302 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Optimizing
+2018-06-04 00:02:57.707685 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Start CG optimization: #parameters: 13008, #inputs: 32551, #subsample_inputs: 32551
+2018-06-04 00:02:57.707986 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | computing loss before
+2018-06-04 00:03:00.954224 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | performing update
+2018-06-04 00:03:00.954771 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | computing gradient
+2018-06-04 00:03:08.110175 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | gradient computed
+2018-06-04 00:03:08.110562 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | computing descent direction
+2018-06-04 00:05:48.974624 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | descent direction computed
+2018-06-04 00:05:51.992016 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | backtrack iters: 0
+2018-06-04 00:05:51.992589 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | computing loss after
+2018-06-04 00:05:51.992864 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | optimization finished
+2018-06-04 00:05:51.993143 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Computing loss after
+2018-06-04 00:05:54.813395 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Computing KL after
+2018-06-04 00:05:57.181813 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Saving snapshot...
+2018-06-04 00:05:57.186413 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #2 | Saved
+2018-06-04 00:05:57.187528 PDT | ----------------------  --------------
+2018-06-04 00:05:57.187710 PDT | 0PolicyExecTime           18.0986
+2018-06-04 00:05:57.187865 PDT | 0EnvExecTime             337.177
+2018-06-04 00:05:57.188022 PDT | 0ProcessExecTime           8.9605
+2018-06-04 00:05:57.188158 PDT | 0AverageReturn          -126.447
+2018-06-04 00:05:57.188300 PDT | 0ExplainedVariance         0.288917
+2018-06-04 00:05:57.188438 PDT | 0NumTrajs                869
+2018-06-04 00:05:57.188574 PDT | 0Entropy                   5.63933
+2018-06-04 00:05:57.188708 PDT | 0Perplexity              281.273
+2018-06-04 00:05:57.188842 PDT | 0StdReturn                19.9357
+2018-06-04 00:05:57.188976 PDT | 0MaxReturn              -104.81
+2018-06-04 00:05:57.189126 PDT | 0MinReturn              -235.75
+2018-06-04 00:05:57.189266 PDT | 0AveragePolicyStd          0.990967
+2018-06-04 00:05:57.189404 PDT | ComputeUpdatedDistTime     2.21197
+2018-06-04 00:05:57.189551 PDT | 1PolicyExecTime          111.145
+2018-06-04 00:05:57.189709 PDT | 1EnvExecTime             389.482
+2018-06-04 00:05:57.189865 PDT | 1ProcessExecTime          10.2654
+2018-06-04 00:05:57.190028 PDT | 1AverageReturn          -125.224
+2018-06-04 00:05:57.190165 PDT | 1ExplainedVariance         0.309096
+2018-06-04 00:05:57.190299 PDT | 1NumTrajs                871
+2018-06-04 00:05:57.190434 PDT | 1Entropy                   5.63768
+2018-06-04 00:05:57.190569 PDT | 1Perplexity              280.81
+2018-06-04 00:05:57.190703 PDT | 1StdReturn                19.1355
+2018-06-04 00:05:57.190837 PDT | 1MaxReturn              -101.782
+2018-06-04 00:05:57.190970 PDT | 1MinReturn              -233.076
+2018-06-04 00:05:57.191103 PDT | 1AveragePolicyStd          0.990563
+2018-06-04 00:05:57.191237 PDT | MeanKLBefore               1.10705e-08
+2018-06-04 00:05:57.191371 PDT | MeanKL                     0.00913773
+2018-06-04 00:05:57.191504 PDT | LossBefore                -0.00102607
+2018-06-04 00:05:57.191637 PDT | LossAfter                 -0.00425166
+2018-06-04 00:05:57.191770 PDT | dLoss                      0.00322559
+2018-06-04 00:05:57.191903 PDT | Time                    3515.95
+2018-06-04 00:05:57.192048 PDT | ItrTime                 1070.98
+2018-06-04 00:05:57.192185 PDT | ----------------------  --------------
+2018-06-04 00:05:57.192431 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Sampling set of tasks/goals for this meta-batch...
+2018-06-04 00:05:57.198630 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | ** Step 0 **
+2018-06-04 00:05:57.199252 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Obtaining samples...
+2018-06-04 00:05:57.201095 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Obtaining samples for iteration 3...
+2018-06-04 00:11:53.581746 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Processing samples...
+2018-06-04 00:11:55.147369 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | fitting baseline...
+2018-06-04 00:11:55.810511 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | fitted
+2018-06-04 00:11:56.386959 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Logging diagnostics...
+2018-06-04 00:11:56.450854 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Computing policy updates...
+2018-06-04 00:11:59.291114 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | ** Step 1 **
+2018-06-04 00:11:59.291490 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Obtaining samples...
+2018-06-04 00:11:59.291788 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Obtaining samples for iteration 3...
+2018-06-04 00:20:22.724539 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Processing samples...
+2018-06-04 00:20:24.196663 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | fitting baseline...
+2018-06-04 00:20:24.858494 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | fitted
+2018-06-04 00:20:25.395513 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Logging diagnostics...
+2018-06-04 00:20:25.452452 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Optimizing policy...
+2018-06-04 00:20:25.453015 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Computing KL before
+2018-06-04 00:20:27.682828 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Computing loss before
+2018-06-04 00:20:30.084404 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Optimizing
+2018-06-04 00:20:30.085760 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Start CG optimization: #parameters: 13008, #inputs: 31895, #subsample_inputs: 31895
+2018-06-04 00:20:30.086073 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | computing loss before
+2018-06-04 00:20:33.351760 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | performing update
+2018-06-04 00:20:33.352238 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | computing gradient
+2018-06-04 00:20:40.489406 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | gradient computed
+2018-06-04 00:20:40.489799 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | computing descent direction
+2018-06-04 00:23:25.387808 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | descent direction computed
+2018-06-04 00:23:31.225963 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | backtrack iters: 1
+2018-06-04 00:23:31.226280 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | computing loss after
+2018-06-04 00:23:31.226429 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | optimization finished
+2018-06-04 00:23:31.226579 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Computing loss after
+2018-06-04 00:23:33.539651 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Computing KL after
+2018-06-04 00:23:36.719109 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Saving snapshot...
+2018-06-04 00:23:36.726581 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #3 | Saved
+2018-06-04 00:23:36.728355 PDT | ----------------------  --------------
+2018-06-04 00:23:36.728648 PDT | 0PolicyExecTime           17.6151
+2018-06-04 00:23:36.728890 PDT | 0EnvExecTime             329.153
+2018-06-04 00:23:36.729119 PDT | 0ProcessExecTime           8.71176
+2018-06-04 00:23:36.729345 PDT | 0AverageReturn          -117.681
+2018-06-04 00:23:36.729568 PDT | 0ExplainedVariance         0.483291
+2018-06-04 00:23:36.729789 PDT | 0NumTrajs                860
+2018-06-04 00:23:36.730011 PDT | 0Entropy                   5.59253
+2018-06-04 00:23:36.730233 PDT | 0Perplexity              268.415
+2018-06-04 00:23:36.730453 PDT | 0StdReturn                 7.05719
+2018-06-04 00:23:36.730672 PDT | 0MaxReturn              -101.906
+2018-06-04 00:23:36.730893 PDT | 0MinReturn              -223.638
+2018-06-04 00:23:36.731113 PDT | 0AveragePolicyStd          0.979554
+2018-06-04 00:23:36.731333 PDT | ComputeUpdatedDistTime     2.83996
+2018-06-04 00:23:36.731555 PDT | 1PolicyExecTime          108.571
+2018-06-04 00:23:36.731776 PDT | 1EnvExecTime             383.826
+2018-06-04 00:23:36.731997 PDT | 1ProcessExecTime           9.75887
+2018-06-04 00:23:36.732219 PDT | 1AverageReturn          -116.589
+2018-06-04 00:23:36.732462 PDT | 1ExplainedVariance         0.440433
+2018-06-04 00:23:36.732683 PDT | 1NumTrajs                857
+2018-06-04 00:23:36.732905 PDT | 1Entropy                   5.5895
+2018-06-04 00:23:36.733125 PDT | 1Perplexity              267.601
+2018-06-04 00:23:36.733345 PDT | 1StdReturn                 4.85172
+2018-06-04 00:23:36.733567 PDT | 1MaxReturn              -101.898
+2018-06-04 00:23:36.733788 PDT | 1MinReturn              -131.786
+2018-06-04 00:23:36.734008 PDT | 1AveragePolicyStd          0.978819
+2018-06-04 00:23:36.734235 PDT | MeanKLBefore               1.90504e-06
+2018-06-04 00:23:36.734462 PDT | MeanKL                     0.00738398
+2018-06-04 00:23:36.734684 PDT | LossBefore                 0.000542687
+2018-06-04 00:23:36.734907 PDT | LossAfter                 -0.0032589
+2018-06-04 00:23:36.735128 PDT | dLoss                      0.00380159
+2018-06-04 00:23:36.735378 PDT | Time                    4575.49
+2018-06-04 00:23:36.735605 PDT | ItrTime                 1059.53
+2018-06-04 00:23:36.735826 PDT | ----------------------  --------------
+2018-06-04 00:23:36.736218 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Sampling set of tasks/goals for this meta-batch...
+2018-06-04 00:23:36.744067 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | ** Step 0 **
+2018-06-04 00:23:36.746866 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Obtaining samples...
+2018-06-04 00:23:36.749274 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Obtaining samples for iteration 4...
+2018-06-04 00:29:32.458911 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Processing samples...
+2018-06-04 00:29:34.028365 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | fitting baseline...
+2018-06-04 00:29:34.678922 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | fitted
+2018-06-04 00:29:35.249963 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Logging diagnostics...
+2018-06-04 00:29:35.312810 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Computing policy updates...
+2018-06-04 00:29:37.497763 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | ** Step 1 **
+2018-06-04 00:29:37.497982 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Obtaining samples...
+2018-06-04 00:29:37.498202 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Obtaining samples for iteration 4...
+2018-06-04 00:37:51.707759 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Processing samples...
+2018-06-04 00:37:53.185789 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | fitting baseline...
+2018-06-04 00:37:53.866977 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | fitted
+2018-06-04 00:37:54.420161 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Logging diagnostics...
+2018-06-04 00:37:54.484774 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Optimizing policy...
+2018-06-04 00:37:54.485348 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Computing KL before
+2018-06-04 00:37:56.743378 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Computing loss before
+2018-06-04 00:37:59.723132 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Optimizing
+2018-06-04 00:37:59.724454 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Start CG optimization: #parameters: 13008, #inputs: 32000, #subsample_inputs: 32000
+2018-06-04 00:37:59.724759 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | computing loss before
+2018-06-04 00:38:02.556019 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | performing update
+2018-06-04 00:38:02.556346 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | computing gradient
+2018-06-04 00:38:09.996561 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | gradient computed
+2018-06-04 00:38:09.996834 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | computing descent direction
+2018-06-04 00:40:51.920090 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | descent direction computed
+2018-06-04 00:40:57.934543 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | backtrack iters: 1
+2018-06-04 00:40:57.935182 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | computing loss after
+2018-06-04 00:40:57.935521 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | optimization finished
+2018-06-04 00:40:57.935855 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Computing loss after
+2018-06-04 00:41:02.048844 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Computing KL after
+2018-06-04 00:41:05.677864 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Saving snapshot...
+2018-06-04 00:41:05.685295 PDT | [trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11] itr #4 | Saved
+2018-06-04 00:41:05.687050 PDT | ----------------------  --------------
+2018-06-04 00:41:05.687340 PDT | 0PolicyExecTime           17.4766
+2018-06-04 00:41:05.687582 PDT | 0EnvExecTime             328.653
+2018-06-04 00:41:05.687814 PDT | 0ProcessExecTime           8.516
+2018-06-04 00:41:05.688041 PDT | 0AverageReturn          -114.707
+2018-06-04 00:41:05.688267 PDT | 0ExplainedVariance         0.539658
+2018-06-04 00:41:05.688507 PDT | 0NumTrajs                834
+2018-06-04 00:41:05.688734 PDT | 0Entropy                   5.55206
+2018-06-04 00:41:05.688959 PDT | 0Perplexity              257.769
+2018-06-04 00:41:05.689183 PDT | 0StdReturn                 4.15344
+2018-06-04 00:41:05.689407 PDT | 0MaxReturn              -102.392
+2018-06-04 00:41:05.689629 PDT | 0MinReturn              -138.751
+2018-06-04 00:41:05.689852 PDT | 0AveragePolicyStd          0.969813
+2018-06-04 00:41:05.690074 PDT | ComputeUpdatedDistTime     2.18469
+2018-06-04 00:41:05.690295 PDT | 1PolicyExecTime          106.497
+2018-06-04 00:41:05.690517 PDT | 1EnvExecTime             377.626
+2018-06-04 00:41:05.690909 PDT | 1ProcessExecTime           9.05307
+2018-06-04 00:41:05.691285 PDT | 1AverageReturn          -113.922
+2018-06-04 00:41:05.691522 PDT | 1ExplainedVariance         0.567503
+2018-06-04 00:41:05.691747 PDT | 1NumTrajs                829
+2018-06-04 00:41:05.691974 PDT | 1Entropy                   5.54766
+2018-06-04 00:41:05.692199 PDT | 1Perplexity              256.636
+2018-06-04 00:41:05.692444 PDT | 1StdReturn                 4.29008
+2018-06-04 00:41:05.692747 PDT | 1MaxReturn              -102.364
+2018-06-04 00:41:05.692974 PDT | 1MinReturn              -130.168
+2018-06-04 00:41:05.693222 PDT | 1AveragePolicyStd          0.968759
+2018-06-04 00:41:05.693459 PDT | MeanKLBefore               1.98372e-06
+2018-06-04 00:41:05.693689 PDT | MeanKL                     0.00673603
+2018-06-04 00:41:05.693914 PDT | LossBefore                -0.000391374
+2018-06-04 00:41:05.694198 PDT | LossAfter                 -0.00445953
+2018-06-04 00:41:05.694438 PDT | dLoss                      0.00406815
+2018-06-04 00:41:05.694685 PDT | Time                    5624.45
+2018-06-04 00:41:05.694911 PDT | ItrTime                 1048.95
+2018-06-04 00:41:05.695162 PDT | ----------------------  --------------
