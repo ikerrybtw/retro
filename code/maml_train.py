@@ -18,10 +18,10 @@ fast_learning_rate = 0.1
 # baseline = 'linear'
 fast_batch_size = 20  # 10 works for [0.1, 0.2], 20 doesn't improve much for [0,0.2]
 meta_batch_size = 40  # 10 also works, but much less stable, 20 is fairly stable, 40 is more stable
-max_path_length = 1600 # 0
+max_path_length = 500 # 0
 num_grad_updates = 1
 meta_step_size = 0.01
-train_env = 'BipedalWalker-v2'
+train_env = 'BipedalWalkerHardcore-v2'
 use_maml = True
 
 stub(globals())
@@ -44,7 +44,7 @@ algo = MAMLTRPO(
                 max_path_length=max_path_length,
                 meta_batch_size=meta_batch_size,
                 num_grad_updates=num_grad_updates,
-                n_itr=5,
+                n_itr=100,
                 use_maml=use_maml,
                 step_size=meta_step_size,
                 plot=False,

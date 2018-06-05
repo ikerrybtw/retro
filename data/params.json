@@ -1,13 +1,13 @@
 {
-  "args_data": "gANjcmxsYWIubWlzYy5pbnN0cnVtZW50ClN0dWJNZXRob2RDYWxsCnEAKYFxAX1xAihYBgAAAF9fYXJnc3EDKGNybGxhYi5taXNjLmluc3RydW1lbnQKU3R1Yk9iamVjdApxBCmBcQV9cQYoWAQAAABhcmdzcQcpWAYAAABrd2FyZ3NxCH1xCShYDwAAAG1ldGFfYmF0Y2hfc2l6ZXEKSyhYBAAAAHBsb3RxC4lYDwAAAG1heF9wYXRoX2xlbmd0aHEMTUAGWAUAAABuX2l0cnENSwVYCAAAAHVzZV9tYW1scQ6IWAMAAABlbnZxD2gEKYFxEH1xEShoByloCH1xElgLAAAAd3JhcHBlZF9lbnZxE2gEKYFxFH1xFShoByloCH1xFmgPaAQpgXEXfXEYKGgHKWgIfXEZKFgIAAAAZW52X25hbWVxGlgQAAAAQmlwZWRhbFdhbGtlci12MnEbWAoAAAByZWNvcmRfbG9ncRyJWAwAAAByZWNvcmRfdmlkZW9xHYlYCwAAAGZvcmNlX3Jlc2V0cR6IdVgLAAAAcHJveHlfY2xhc3NxH2NybGxhYi5lbnZzLmd5bV9lbnYKR3ltRW52CnEgdWJzaB9jcmxsYWIuZW52cy5ub3JtYWxpemVkX2VudgpOb3JtYWxpemVkRW52CnEhdWJzaB9jc2FuZGJveC5yb2NreS50Zi5lbnZzLmJhc2UKVGZFbnYKcSJ1YlgIAAAAYmFzZWxpbmVxI2gEKYFxJH1xJShoByloCH1xJlgIAAAAZW52X3NwZWNxJ2NybGxhYi5taXNjLmluc3RydW1lbnQKU3R1YkF0dHIKcSgpgXEpfXEqKFgKAAAAX2F0dHJfbmFtZXErWAQAAABzcGVjcSxYBAAAAF9vYmpxLWgQdWJzaB9jcmxsYWIuYmFzZWxpbmVzLmxpbmVhcl9mZWF0dXJlX2Jhc2VsaW5lCkxpbmVhckZlYXR1cmVCYXNlbGluZQpxLnViWAYAAABwb2xpY3lxL2gEKYFxMH1xMShoByloCH1xMihYDgAAAGdyYWRfc3RlcF9zaXplcTNHP7mZmZmZmZpoJ2goKYFxNH1xNShoK2gsaC1oEHViWAQAAABuYW1lcTZoL1gMAAAAaGlkZGVuX3NpemVzcTdLZEtkhnE4WBMAAABoaWRkZW5fbm9ubGluZWFyaXR5cTljdGVuc29yZmxvdy5weXRob24ub3BzLmdlbl9ubl9vcHMKcmVsdQpxOnVoH2NzYW5kYm94LnJvY2t5LnRmLnBvbGljaWVzLm1hbWxfbWluaW1hbF9nYXVzc19tbHBfcG9saWN5Ck1BTUxHYXVzc2lhbk1MUFBvbGljeQpxO3ViWBAAAABudW1fZ3JhZF91cGRhdGVzcTxLAVgKAAAAYmF0Y2hfc2l6ZXE9SxRYCQAAAHN0ZXBfc2l6ZXE+Rz+EeuFHrhR7dWgfY3NhbmRib3gucm9ja3kudGYuYWxnb3MubWFtbF90cnBvCk1BTUxUUlBPCnE/dWJYBQAAAHRyYWlucUApfXFBdHFCWAgAAABfX2t3YXJnc3FDfXFEdWIu",
+  "args_data": "gANjcmxsYWIubWlzYy5pbnN0cnVtZW50ClN0dWJNZXRob2RDYWxsCnEAKYFxAX1xAihYCAAAAF9fa3dhcmdzcQN9cQRYBgAAAF9fYXJnc3EFKGNybGxhYi5taXNjLmluc3RydW1lbnQKU3R1Yk9iamVjdApxBimBcQd9cQgoWAYAAABrd2FyZ3NxCX1xCihYCgAAAGJhdGNoX3NpemVxC0sUWAUAAABuX2l0cnEMS2RYCQAAAHN0ZXBfc2l6ZXENRz+EeuFHrhR7WAMAAABlbnZxDmgGKYFxD31xEChoCX1xEVgLAAAAd3JhcHBlZF9lbnZxEmgGKYFxE31xFChoCX1xFWgOaAYpgXEWfXEXKGgJfXEYKFgKAAAAcmVjb3JkX2xvZ3EZiVgMAAAAcmVjb3JkX3ZpZGVvcRqJWAgAAABlbnZfbmFtZXEbWBgAAABCaXBlZGFsV2Fsa2VySGFyZGNvcmUtdjJxHFgLAAAAZm9yY2VfcmVzZXRxHYh1WAsAAABwcm94eV9jbGFzc3EeY3JsbGFiLmVudnMuZ3ltX2VudgpHeW1FbnYKcR9YBAAAAGFyZ3NxICl1YnNoHmNybGxhYi5lbnZzLm5vcm1hbGl6ZWRfZW52Ck5vcm1hbGl6ZWRFbnYKcSFoICl1YnNoHmNzYW5kYm94LnJvY2t5LnRmLmVudnMuYmFzZQpUZkVudgpxImggKXViWAgAAAB1c2VfbWFtbHEjiFgIAAAAYmFzZWxpbmVxJGgGKYFxJX1xJihoCX1xJ1gIAAAAZW52X3NwZWNxKGNybGxhYi5taXNjLmluc3RydW1lbnQKU3R1YkF0dHIKcSkpgXEqfXErKFgKAAAAX2F0dHJfbmFtZXEsWAQAAABzcGVjcS1YBAAAAF9vYmpxLmgPdWJzaB5jcmxsYWIuYmFzZWxpbmVzLmxpbmVhcl9mZWF0dXJlX2Jhc2VsaW5lCkxpbmVhckZlYXR1cmVCYXNlbGluZQpxL2ggKXViWAYAAABwb2xpY3lxMGgGKYFxMX1xMihoCX1xMyhYDgAAAGdyYWRfc3RlcF9zaXplcTRHP7mZmZmZmZpYDAAAAGhpZGRlbl9zaXplc3E1S2RLZIZxNlgEAAAAbmFtZXE3aDBYEwAAAGhpZGRlbl9ub25saW5lYXJpdHlxOGN0ZW5zb3JmbG93LnB5dGhvbi5vcHMuZ2VuX25uX29wcwpyZWx1CnE5aChoKSmBcTp9cTsoaCxoLWguaA91YnVoHmNzYW5kYm94LnJvY2t5LnRmLnBvbGljaWVzLm1hbWxfbWluaW1hbF9nYXVzc19tbHBfcG9saWN5Ck1BTUxHYXVzc2lhbk1MUFBvbGljeQpxPGggKXViWA8AAABtYXhfcGF0aF9sZW5ndGhxPU30AVgEAAAAcGxvdHE+iVgPAAAAbWV0YV9iYXRjaF9zaXplcT9LKFgQAAAAbnVtX2dyYWRfdXBkYXRlc3FASwF1aB5jc2FuZGJveC5yb2NreS50Zi5hbGdvcy5tYW1sX3RycG8KTUFNTFRSUE8KcUFoICl1YlgFAAAAdHJhaW5xQil9cUN0cUR1Yi4=",
   "exp_name": "trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11",
   "json_args": {
     "algo": {
       "_name": "sandbox.rocky.tf.algos.maml_trpo.MAMLTRPO",
       "batch_size": 20,
-      "max_path_length": 1600,
+      "max_path_length": 500,
       "meta_batch_size": 40,
-      "n_itr": 5,
+      "n_itr": 100,
       "num_grad_updates": 1,
       "plot": false,
       "step_size": 0.01,
@@ -23,7 +23,7 @@
             "_name": "rllab.envs.normalized_env.NormalizedEnv",
             "env": {
               "_name": "rllab.envs.gym_env.GymEnv",
-              "env_name": "BipedalWalker-v2",
+              "env_name": "BipedalWalkerHardcore-v2",
               "force_reset": true,
               "record_log": false,
               "record_video": false
@@ -38,7 +38,7 @@
         "_name": "rllab.envs.normalized_env.NormalizedEnv",
         "env": {
           "_name": "rllab.envs.gym_env.GymEnv",
-          "env_name": "BipedalWalker-v2",
+          "env_name": "BipedalWalkerHardcore-v2",
           "force_reset": true,
           "record_log": false,
           "record_video": false
@@ -55,7 +55,7 @@
             "_name": "rllab.envs.normalized_env.NormalizedEnv",
             "env": {
               "_name": "rllab.envs.gym_env.GymEnv",
-              "env_name": "BipedalWalker-v2",
+              "env_name": "BipedalWalkerHardcore-v2",
               "force_reset": true,
               "record_log": false,
               "record_video": false
