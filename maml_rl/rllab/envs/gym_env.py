@@ -55,6 +55,8 @@ class GymEnv(Env, Serializable):
         Serializable.quick_init(self, locals())
 
         env = gym.envs.make(env_name)
+        env = gym.wrappers.FlattenDictWrapper(env, dict_keys=['observation', 'desired_goal'])
+        # print(env)
         self.env = env
         self.env_id = env.spec.id
 
@@ -73,6 +75,7 @@ class GymEnv(Env, Serializable):
             self.env = gym.wrappers.Monitor(self.env, log_dir, video_callable=video_schedule, force=True)
             self.monitoring = True
 
+        # self._observation_space = convert_gym_space(env.observation_space)
         self._observation_space = convert_gym_space(env.observation_space)
         self._action_space = convert_gym_space(env.action_space)
         self._horizon = env.spec.timestep_limit
@@ -104,7 +107,8 @@ class GymEnv(Env, Serializable):
 
     def render(self):
         self.env.render()
-
+    def sample_goals(self):
+        return self.env.unwrapped._sample_goal()
     def terminate(self):
         if self.monitoring:
             self.env._close()
