@@ -1,13 +1,13 @@
 {
-  "args_data": "gANjcmxsYWIubWlzYy5pbnN0cnVtZW50ClN0dWJNZXRob2RDYWxsCnEAKYFxAX1xAihYCAAAAF9fa3dhcmdzcQN9cQRYBgAAAF9fYXJnc3EFKGNybGxhYi5taXNjLmluc3RydW1lbnQKU3R1Yk9iamVjdApxBimBcQd9cQgoWAYAAABrd2FyZ3NxCX1xCihYCgAAAGJhdGNoX3NpemVxC0sUWAUAAABuX2l0cnEMS2RYCQAAAHN0ZXBfc2l6ZXENRz+EeuFHrhR7WAMAAABlbnZxDmgGKYFxD31xEChoCX1xEVgLAAAAd3JhcHBlZF9lbnZxEmgGKYFxE31xFChoCX1xFWgOaAYpgXEWfXEXKGgJfXEYKFgKAAAAcmVjb3JkX2xvZ3EZiVgMAAAAcmVjb3JkX3ZpZGVvcRqJWAgAAABlbnZfbmFtZXEbWBgAAABCaXBlZGFsV2Fsa2VySGFyZGNvcmUtdjJxHFgLAAAAZm9yY2VfcmVzZXRxHYh1WAsAAABwcm94eV9jbGFzc3EeY3JsbGFiLmVudnMuZ3ltX2VudgpHeW1FbnYKcR9YBAAAAGFyZ3NxICl1YnNoHmNybGxhYi5lbnZzLm5vcm1hbGl6ZWRfZW52Ck5vcm1hbGl6ZWRFbnYKcSFoICl1YnNoHmNzYW5kYm94LnJvY2t5LnRmLmVudnMuYmFzZQpUZkVudgpxImggKXViWAgAAAB1c2VfbWFtbHEjiFgIAAAAYmFzZWxpbmVxJGgGKYFxJX1xJihoCX1xJ1gIAAAAZW52X3NwZWNxKGNybGxhYi5taXNjLmluc3RydW1lbnQKU3R1YkF0dHIKcSkpgXEqfXErKFgKAAAAX2F0dHJfbmFtZXEsWAQAAABzcGVjcS1YBAAAAF9vYmpxLmgPdWJzaB5jcmxsYWIuYmFzZWxpbmVzLmxpbmVhcl9mZWF0dXJlX2Jhc2VsaW5lCkxpbmVhckZlYXR1cmVCYXNlbGluZQpxL2ggKXViWAYAAABwb2xpY3lxMGgGKYFxMX1xMihoCX1xMyhYDgAAAGdyYWRfc3RlcF9zaXplcTRHP7mZmZmZmZpYDAAAAGhpZGRlbl9zaXplc3E1S2RLZIZxNlgEAAAAbmFtZXE3aDBYEwAAAGhpZGRlbl9ub25saW5lYXJpdHlxOGN0ZW5zb3JmbG93LnB5dGhvbi5vcHMuZ2VuX25uX29wcwpyZWx1CnE5aChoKSmBcTp9cTsoaCxoLWguaA91YnVoHmNzYW5kYm94LnJvY2t5LnRmLnBvbGljaWVzLm1hbWxfbWluaW1hbF9nYXVzc19tbHBfcG9saWN5Ck1BTUxHYXVzc2lhbk1MUFBvbGljeQpxPGggKXViWA8AAABtYXhfcGF0aF9sZW5ndGhxPU30AVgEAAAAcGxvdHE+iVgPAAAAbWV0YV9iYXRjaF9zaXplcT9LKFgQAAAAbnVtX2dyYWRfdXBkYXRlc3FASwF1aB5jc2FuZGJveC5yb2NreS50Zi5hbGdvcy5tYW1sX3RycG8KTUFNTFRSUE8KcUFoICl1YlgFAAAAdHJhaW5xQil9cUN0cUR1Yi4=",
+  "args_data": "gANjcmxsYWIubWlzYy5pbnN0cnVtZW50ClN0dWJNZXRob2RDYWxsCnEAKYFxAX1xAihYCAAAAF9fa3dhcmdzcQN9cQRYBgAAAF9fYXJnc3EFKGNybGxhYi5taXNjLmluc3RydW1lbnQKU3R1Yk9iamVjdApxBimBcQd9cQgoWAsAAABwcm94eV9jbGFzc3EJY3NhbmRib3gucm9ja3kudGYuYWxnb3MubWFtbF90cnBvCk1BTUxUUlBPCnEKWAQAAABhcmdzcQspWAYAAABrd2FyZ3NxDH1xDShYBQAAAG5faXRycQ5NkAFYDwAAAG1ldGFfYmF0Y2hfc2l6ZXEPSyhYCAAAAHVzZV9tYW1scRCIWAYAAABwb2xpY3lxEWgGKYFxEn1xEyhoCWNzYW5kYm94LnJvY2t5LnRmLnBvbGljaWVzLm1hbWxfbWluaW1hbF9nYXVzc19tbHBfcG9saWN5Ck1BTUxHYXVzc2lhbk1MUFBvbGljeQpxFGgLKWgMfXEVKFgMAAAAaGlkZGVuX3NpemVzcRZLZEtkS2SHcRdYBAAAAG5hbWVxGGgRWBMAAABoaWRkZW5fbm9ubGluZWFyaXR5cRljdGVuc29yZmxvdy5weXRob24ub3BzLmdlbl9ubl9vcHMKcmVsdQpxGlgIAAAAZW52X3NwZWNxG2NybGxhYi5taXNjLmluc3RydW1lbnQKU3R1YkF0dHIKcRwpgXEdfXEeKFgEAAAAX29ianEfaAYpgXEgfXEhKGgJY3NhbmRib3gucm9ja3kudGYuZW52cy5iYXNlClRmRW52CnEiaAspaAx9cSNYCwAAAHdyYXBwZWRfZW52cSRoBimBcSV9cSYoaAljcmxsYWIuZW52cy5ub3JtYWxpemVkX2VudgpOb3JtYWxpemVkRW52CnEnaAspaAx9cShYAwAAAGVudnEpaAYpgXEqfXErKGgJY3JsbGFiLmVudnMuZ3ltX2VudgpHeW1FbnYKcSxoCyloDH1xLShYCwAAAGZvcmNlX3Jlc2V0cS6IWAoAAAByZWNvcmRfbG9ncS+JWAgAAABlbnZfbmFtZXEwWA0AAABGZXRjaFJlYWNoLXYxcTFYDAAAAHJlY29yZF92aWRlb3EyiXV1YnN1YnN1YlgKAAAAX2F0dHJfbmFtZXEzWAQAAABzcGVjcTR1YlgOAAAAZ3JhZF9zdGVwX3NpemVxNUc/uZmZmZmZmnV1YmgpaCBYDwAAAG1heF9wYXRoX2xlbmd0aHE2SzJYBAAAAHBsb3RxN4lYCAAAAGJhc2VsaW5lcThoBimBcTl9cTooaAljcmxsYWIuYmFzZWxpbmVzLmxpbmVhcl9mZWF0dXJlX2Jhc2VsaW5lCkxpbmVhckZlYXR1cmVCYXNlbGluZQpxO2gLKWgMfXE8aBtoHCmBcT19cT4oaB9oIGgzaDR1YnN1YlgKAAAAYmF0Y2hfc2l6ZXE/SxRYEAAAAG51bV9ncmFkX3VwZGF0ZXNxQEsBWAkAAABzdGVwX3NpemVxQUc/hHrhR64Ue3V1YlgFAAAAdHJhaW5xQil9cUN0cUR1Yi4=",
   "exp_name": "trpomaml1_fbs20_mbs40_flr_0.1metalr_0.01_step11",
   "json_args": {
     "algo": {
       "_name": "sandbox.rocky.tf.algos.maml_trpo.MAMLTRPO",
       "batch_size": 20,
-      "max_path_length": 500,
+      "max_path_length": 50,
       "meta_batch_size": 40,
-      "n_itr": 100,
+      "n_itr": 400,
       "num_grad_updates": 1,
       "plot": false,
       "step_size": 0.01,
@@ -23,7 +23,7 @@
             "_name": "rllab.envs.normalized_env.NormalizedEnv",
             "env": {
               "_name": "rllab.envs.gym_env.GymEnv",
-              "env_name": "BipedalWalkerHardcore-v2",
+              "env_name": "FetchReach-v1",
               "force_reset": true,
               "record_log": false,
               "record_video": false
@@ -38,7 +38,7 @@
         "_name": "rllab.envs.normalized_env.NormalizedEnv",
         "env": {
           "_name": "rllab.envs.gym_env.GymEnv",
-          "env_name": "BipedalWalkerHardcore-v2",
+          "env_name": "FetchReach-v1",
           "force_reset": true,
           "record_log": false,
           "record_video": false
@@ -55,7 +55,7 @@
             "_name": "rllab.envs.normalized_env.NormalizedEnv",
             "env": {
               "_name": "rllab.envs.gym_env.GymEnv",
-              "env_name": "BipedalWalkerHardcore-v2",
+              "env_name": "FetchReach-v1",
               "force_reset": true,
               "record_log": false,
               "record_video": false
@@ -66,6 +66,7 @@
       "grad_step_size": 0.1,
       "hidden_nonlinearity": "tensorflow.python.ops.gen_nn_ops.relu",
       "hidden_sizes": [
+        100,
         100,
         100
       ],
